@@ -1,0 +1,10 @@
+name: bloc_abstraction
+description: Simple abstraction for Flutter's BloC pattern implementation
+version: 1.0.0
+author: Tércyo Storck <tercyostorck@gmail.com>
+homepage: https://github.com/TercyoStorck/bloc_abstraction
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
